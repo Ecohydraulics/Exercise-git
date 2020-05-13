@@ -1,7 +1,8 @@
-Python Programming in Water Resources Engineering and Research
-===
+### Python Programming in Water Resources Engineering and Research
 
-# Assignment 1
+***
+
+### Assignment 1
 
 Task: Describe your favorite dam, fish or river within a markdown file.
 
