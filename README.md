@@ -13,4 +13,4 @@ Required features:
 * Implement click-able links to sources (website, pdf downloads) used
 
 
-![illustration](https://raw.githubusercontent.com/hydro-informatics/hypy-assignment-1/master/illustration.png)
+![illustration](https://raw.githubusercontent.com/hydro-informatics/hypy-assignment-1/master/illustration.png?token=AOVQATAW6L3T7V5SXCNQH7K6XQKYS)
