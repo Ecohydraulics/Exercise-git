@@ -11,3 +11,6 @@ Required features:
 * Table summarizing key parameters
 * List at least two similar structures / rivers / fish
 * Implement click-able links to sources (website, pdf downloads) used
+
+
+![ImgName](https://raw.githubusercontent.com/hydro-informatics/hypy-assignment-1/master/illustration.png)
