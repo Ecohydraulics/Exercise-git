@@ -2,7 +2,7 @@
 
 ***
 
-### Assignment 1
+## Exercise: Git and markdown
 
 Task: Describe your favorite dam, fish or river within a markdown file.
 
