@@ -6,7 +6,7 @@
 
 ## Exercise: Git and markdown
 
->	***Background***: Writing *README* markdown file and *git* are the baseline for the learning success with the materials provided on this website.
+>	***Background***: Writing *README* markdown files and using *git* represent fundamental tasks for learning success with the materials provided on this website.
 
 >   ***Goals***: Use *git* and get familiar with writing markdown documents.
 
