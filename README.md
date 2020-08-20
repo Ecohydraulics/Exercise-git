@@ -20,7 +20,7 @@ git clone https://github.com/Ecohydraulics/Exercise-git.git
 
 
 
-Describe your favorite dam, fish or river within a markdown file.
+***Task:*** Describe your favorite dam, fish or river within a markdown file.
 
 Required features: 
 * Link to picture online
